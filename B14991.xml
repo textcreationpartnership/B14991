@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The post of the prince which advises vs the taking of Steen Bergh. And the besieging of Berghen vp Zoom, with all the circumstances of the parleyes, assaults, sallies, and all what is done vntill this time, as well by the Spanish campe, as the states garrisons. And relates all the late newes of Europe. And principally all the late proceedings of the Prince Palatine, the Count Mansfield, the Duke of Brunsvvick, and the Marquis of Baden; besides, all the late warre like actions in Switzerland; the Grysons; and Low Countries.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1622</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14991</idno>
+            <idno type="STC">STC 18507.70</idno>
+            <idno type="STC">ESTC S103104</idno>
+            <idno type="EEBO-CITATION">99838861</idno>
+            <idno type="PROQUEST">99838861</idno>
+            <idno type="VID">177444</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177444)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1210:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The post of the prince which advises vs the taking of Steen Bergh. And the besieging of Berghen vp Zoom, with all the circumstances of the parleyes, assaults, sallies, and all what is done vntill this time, as well by the Spanish campe, as the states garrisons. And relates all the late newes of Europe. And principally all the late proceedings of the Prince Palatine, the Count Mansfield, the Duke of Brunsvvick, and the Marquis of Baden; besides, all the late warre like actions in Switzerland; the Grysons; and Low Countries.</title>
+               </titleStmt>
+               <extent>[2], 24 [i.e. 20] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I. D[awson] for Nicholas Bourne and Thomas Archer, and are to be sold at their shops at the Exchange, and in Popes-head Pallace,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1622.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at head: The 13. of August 1622.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Page 20 misnumbered 24.</note>
+                  <note>Formerly STC 17674.</note>
+                  <note>Identified as STC 17674 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Maurice, --  Prince of Orange, 1567-1625 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  Wars on Independence, 1556-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177444:1"/>
+            <pb facs="tcp:177444:1" rendition="simple:additions"/>
+            <p>
+               <hi>The</hi> 13. <hi>of Auguſt</hi> 1622.</p>
+            <p>THE POST OF THE PRINCE, WHICH ADVISES VS THE TAKING OF STEEN BERGH.</p>
+            <p>
+               <hi>AND</hi> The Beſieging of <hi>Berghen vp Zoom,</hi> with all <hi>the Circumſtances of the Parleyes, Aſſaults, Sallies,</hi> and all what is done vntill this time, <hi>as well by the Spaniſh Campe, as the</hi> States <hi>Garriſons.</hi>
+            </p>
+            <p>And Relates all the late Newes of <hi>Europe.</hi>
+            </p>
+            <p>And principally all the late Proceedings of the Prince PALATINE, the Count MANSFELD, the Duke of BRVNSVVICK, and the Marquis of BADEN; Beſides, <hi>all the late Warre like actions in</hi> Switzerland; <hi>the</hi> G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yſons; and <hi>Low Countries.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>I. D.</hi> for <hi>Nicholas Bourne</hi> and <hi>Thomas Archer,</hi> and are to be ſold at their ſhops at the <hi>Exchange,</hi> and in <hi>Popes-head Pallace.</hi> 1622.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177444:2"/>
+            <pb n="1" facs="tcp:177444:2"/>
+            <head>THE POST OF THE PRINCE, which adviſes vs, the taking of <hi>Steen-Bergh,</hi> and the beſieging of <hi>Berghen vp Zoom.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>Ome few dayes agoe the Marquis <hi>Spinola</hi> ſent certaine Compa<g ref="char:EOLhyphen"/>nies towards <hi>Mastricht</hi> to croſſe there the Ri<g ref="char:EOLhyphen"/>ver of the <hi>Maye,</hi> as if they ſhoulde haue marcht towards the <hi>Rhine,</hi> keeping never<g ref="char:EOLhyphen"/>theleſſe the greateſt parts of his forces in <hi>Brabant,</hi> as if they were to follow the other but that was not his intent.</p>
+            <p>Satterday, Sunday, and Munday, there was given order to goe towards <hi>Maeſeyck,</hi> onely to deceiue the forces of the <hi>States.</hi>
+            </p>
+            <p>The reſt paſt by <hi>Brey,</hi> and <hi>Peer,</hi> where<g ref="char:EOLhyphen"/>upon followed the Garriſons of <hi>Bilzen, Haſſelt, Herck, Hall, Diest, Sichenen, Arſchot, Lo<g ref="char:EOLhyphen"/>ven,
+<pb n="2" facs="tcp:177444:3"/>Beringen,</hi> and <hi>Geell</hi> to the <hi>Hooghe-Straets,</hi> where thoſe of <hi>Liere, Mechesten,</hi> and <hi>Antwerpe</hi> met likewiſe, which all ioyned, made a great Armie, and was provided with Ar<g ref="char:EOLhyphen"/>tillery, Gun-powder, Leade, and certaine Boates vpon Waggons with all neceſſarie proviſions, for an enterpriſe In the meane time the <hi>Marquis</hi> with ſome few horſe po<g ref="char:EOLhyphen"/>ſted to <hi>Weſell,</hi> as if hee would haue ioyned with Count <hi>Henry</hi> of the <hi>Bergh,</hi> but hee re<g ref="char:EOLhyphen"/>turned preſently.</p>
+            <p>The Prince of <hi>Orenge</hi> vnderſtanding this gaue command that the <hi>States</hi> horſe in <hi>Bra<g ref="char:EOLhyphen"/>bant,</hi> ſhould ride to <hi>Bommelerwaert,</hi> and <hi>Nim<g ref="char:EOLhyphen"/>wegen,</hi> little thinking what was the ſcope of the enemies. Wherupon certaine troops of horſe of the Garriſon of <hi>Berghen vp zoom,</hi> being arrived at <hi>Breda, Iuſtinus</hi> of <hi>Naſſaw</hi> Go<g ref="char:EOLhyphen"/>vernour of <hi>Breda,</hi> having had ſome intelli<g ref="char:EOLhyphen"/>gence of the deſſeing of <hi>Spinola,</hi> perſwaded them to returne backe, and told them that he was ſure that <hi>Spinola</hi> had an enterpriſe vpon <hi>Berghen vp Zoom.</hi>
+            </p>
+            <p>The Leaders after a little deliberation, con<g ref="char:EOLhyphen"/>deſcended all preſently to his adviſe, not<g ref="char:EOLhyphen"/>withſtanding the command of the Prince
+<pb n="3" facs="tcp:177444:3"/>of <hi>Orange.</hi> As ſoone as they were return'd in their Garriſon, they vnderſtood, that the Spaniſh Forces, twelue thouſand ſtrong, marched towards the Caſtle of <hi>Wowe:</hi> And vpon the 18. of Iuly, theſe of <hi>Steen berghen</hi> perceived that their Towne was to be beſieged, being vnawares, and vnprovided of many things neceſſary to ſuſtaine a ſiege, ſeeing it is a place of no great importance. Monſieur <hi>Borwater</hi> Go<g ref="char:EOLhyphen"/>vernour of the place, being a braue Souldi<g ref="char:EOLhyphen"/>er, was much diſcontented with this Newes, ſeeing he wanted both men and Munition, having but one peece of Ordi<g ref="char:EOLhyphen"/>nance in the Towne, and that vnſervicea<g ref="char:EOLhyphen"/>ble, layd before the Hoſpitall without the appurtenances. It is certaine, that the Prince of <hi>Orange</hi> few dayes before the ſiege, ſent thether a Gunner, and had given charge to a Commiſſioner to convay thether fiue or ſix Cannons, but whatſoever the cauſe is, it was not performed: And the Women of the Towne much diſcontented with the ſayd Commiſſioner, would haue caſt him the aforeſayd Munday (being the 18. of Iuly) into the water; the ſaid day about
+<pb n="4" facs="tcp:177444:4"/>noone is the enemy come ſo neere to the Towne, that their voyces might be heard by the Garriſon, and turn'd preſently their Ordinance, and diſcharged the ſame a<g ref="char:EOLhyphen"/>gainſt the Towne, not having made any Battery.</p>
+            <p>And having made a reaſonable bigge breach in the walles with ſixtie Cannon ſhot, the Inhabitants began to looke hea<g ref="char:EOLhyphen"/>vie, the rather becauſe they had not heard of late the noyſe of ſuch Heath Crickets. A few houres before, went a great number of women and children, crying and lamen<g ref="char:EOLhyphen"/>ting, out of the Towne; which was cer<g ref="char:EOLhyphen"/>tainely a pittifull ſpectacle to beholde.</p>
+            <p>What concernes the cryes and laments heard by me, as well of thoſe that were within as without <hi>Tertolen,</hi> the <hi>C'limder</hi> and the <hi>Plaet.</hi> I will not ſpeake of, they carry away all what they will not looſe.</p>
+            <p>I could more liuely Relate how they cry and lament, and wring their hands toge<g ref="char:EOLhyphen"/>ther, the one, for her husband, the other, for her childe, leaping in and out the boats (ſaying) that they will remayne, where fleſh and bloud is loſt, goods are not re<g ref="char:EOLhyphen"/>membered
+<pb n="5" facs="tcp:177444:4"/>in ſuch caſes. In thoſe places where theſe things happen, there is no diſputing whether they be Papiſts, Proteſtants, or Armi<g ref="char:EOLhyphen"/>nians, but muſt ioyntly reſiſt the invaſion of the enemies.</p>
+            <p>On thurſday the 19. of Iuly did the enemies ſend a Trumpet to the Towne, to aske whe<g ref="char:EOLhyphen"/>ther they would Parley. That otherwiſe, his Forces ſtanding readie in Battell array, ſhould aſſault the towne where the breach was made. Declaring moreover, that they would not de<g ref="char:EOLhyphen"/>part from thence before they had brought the Towne vnder the obedience of the King of <hi>Spaine.</hi>
+            </p>
+            <p>The valiant Governour <hi>Borwater,</hi> with two Captaines, and the Gentlemen of their Com<g ref="char:EOLhyphen"/>panies, and ſome of the Magiſtrats of the place, reſolved to keepe the Towne, vntill the laſt man, for the <hi>States.</hi> But they requeſted the Trumpet, that he would try whether the ene<g ref="char:EOLhyphen"/>mies would condeſcend to a ceſſation of Armes for few houres onely; wherevpon, he returned preſently to <hi>Don Lewis de V<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>yco,</hi> and the Governour of <hi>Antwerpe.</hi>
+            </p>
+            <p>In the meane time, they ſent ſome to looke whether they could not ſee (ſtanding vpon the Steeple) any Shippes comming with ayde.
+<pb n="6" facs="tcp:177444:5"/>But afterwards, ſeeing that the enemy divided his Forces in three ſeverall Troopes, to aſſault the towne in divers places, and that they were not able to defend the ſame, ſeeing it had no Countreſcarps, or Bulwarkes, but onely cer<g ref="char:EOLhyphen"/>taine round Towers of no ſtrength. And like<g ref="char:EOLhyphen"/>wiſe in conſideration of the lamentations of women and Cittizens which had any thing to looſe, they could not reſolue almoſt what to doe. And to ſpeake the truth, there was no o<g ref="char:EOLhyphen"/>ther iſſue to be expected, then that the Souldi<g ref="char:EOLhyphen"/>ers, and armed Cittizens, ſhould be ſlaine, as alſo all the reſt, and all their goods pillaged, and made havock off.</p>
+            <p>At the ſame inſtant, the Trumpet being re<g ref="char:EOLhyphen"/>turned, told them that the enemy would not grant them as much as the ſpace of an houre. But if they would ſurrender the Towne, they ſhould haue good conditions, and be well v<g ref="char:EOLhyphen"/>ſed, otherwiſe they muſt doe as the cauſe ſhould require.</p>
+            <p>The Governour was vnwilling to yeeld, but moſt Voyces carryed away, and agreed vpon theſe following Conditions and Articles.</p>
+            <p n="1">1. That all the Souldiers with their Armes and Armour, beſides Baggage ſhould depart, and be conducted with a ſafe Convoy.</p>
+            <pb n="7" facs="tcp:177444:5"/>
+            <p n="2">2. That the Towneſmen ſhould pay two thouſand Gilders (which is 200.<hi rend="sup">li.</hi> Sterling) to the Souldiers, to hinder their pillaging.</p>
+            <p n="3">3. That all the Towneſmen after the afore<g ref="char:EOLhyphen"/>ſaid money is payd, ſhall haue libertie to de<g ref="char:EOLhyphen"/>part with their goods where they liſt.</p>
+            <p n="4">4. That thoſe that would remaine there, and liue according to their Lawes, Cuſtomes, and Ceremonies, they might, and ſhould be vſed as other Inhabitants of the obeyſant Citties and Townes of <hi>Brabant.</hi>
+            </p>
+            <p>Vpon theſe conditions is the Towne ſurren<g ref="char:EOLhyphen"/>dered the aforeſaid Munday before noone be<g ref="char:EOLhyphen"/>ing the 19. of Iuly. The Governour had like<g ref="char:EOLhyphen"/>wiſe leaue to convay his goods away. Within the Towne were two Companies, an old and a new, both of <hi>Alekmar,</hi> &amp; behaved themſelues very valiantly.</p>
+            <p>At their departure there was a woman that philipping vpon her thumbe, told to ſome of the Souldiers, now you muſt foorth and our friends ſhall come in.</p>
+            <p>This Towne was beſet with 9. Companies, and one Captaine <hi>Det</hi> (who did lie in former time vpon the Caſtle of <hi>Wowe,</hi> and is very skil<g ref="char:EOLhyphen"/>full in pillaging, wherefore the Countrey peo<g ref="char:EOLhyphen"/>of the <hi>Climder, Stryen,</hi> and the <hi>Plaet</hi> may looke to
+<pb n="8" facs="tcp:177444:6"/>themſelues, ſeing at the Land ſide he hath but a barren Heath) made Governour of the ſame.</p>
+            <p>At the Haven not farre from the Towne, is the Enemie rayſing a Fort compelling both Cittizens and Souldiers to labour at it.</p>
+            <p>They haue likewiſe put their boats to the water, which they haue gotten thither by wag gons, intending to trouble the Navigation be<g ref="char:EOLhyphen"/>twixt <hi>Holland</hi> and <hi>Sealand.</hi> But our Mariners and Saylers wilbe very glad to meete with them.</p>
+            <p>As ſoone as the enemy had his garriſon plan<g ref="char:EOLhyphen"/>ted in the Towne, he ſent his forces towards <hi>Berghen vp Zoom,</hi> but 2. Leagues from thence, the horſe were conducted by <hi>Don Lewis de Velaſ<g ref="char:EOLhyphen"/>co,</hi> and the foote by the Governour of <hi>Antwerpe,</hi> marching ſo in all haſt to the ſayd Citty, and being arrived there, planted their Ordinance not farre off, thinking to ſpeede as they did at <hi>Steene-berghen,</hi> having notice that the Horſe in garriſon were abroad.</p>
+            <p>And towards the Evening they thought to ſurpriſe the horne-workes, or the great out<g ref="char:EOLhyphen"/>workes neere Saint <hi>Quirin;</hi> But the Governour <hi>Rhyhoven</hi> did hid himſelfe in the ſayd outworks commanding the Ordinance and all things ne<g ref="char:EOLhyphen"/>ceſſary to bee made readie againſt their ap<g ref="char:EOLhyphen"/>proach. which being perceived, the Ordinance
+<pb n="9" facs="tcp:177444:6"/>was preſently diſplayd againſt them, and our foote went to meete them, crying, kill, kill, kil, and after the ſound of the Trumpet, our horſe likewiſe ſet vpon the Enemies, purſuing them in ſuch maner vnto their Cannon, that a great ſlaughter was made amongſt them, and if the garriſon had beene well ſeconded and refreſh<g ref="char:EOLhyphen"/>ed, they would haue carried it away, or other<g ref="char:EOLhyphen"/>wiſe nayled the ſame to make it vnſerviſeable: at our retreat the horſe of the enemy prepared themſelues to ſet vpon our garriſon, but our Ordinance planted vpon the wals, cauſed both men and horſes to cut capers in the ayre wher<g ref="char:EOLhyphen"/>by there roſe ſuch an Alarum with crying and lamenting amongſt them, that it ſeemed that every one was hurt that came neere, them. In ſuch maner they haue beene twiſe or thriſe re<g ref="char:EOLhyphen"/>ſconcerned, and if they like it well they may come againe</p>
+            <p>But they diſliking much this danſe, retyred preſently a quarter of a myle, they tooke their men which were ſlaine along with them and rancked them in the ſand, ſaying theſe feare no more the <hi>Flamencos.</hi> In the meane time thoſe of the city ſpare no charges to fortifie themſelues, having pierced likewiſe the Beare of the newe worke neare the Haven.</p>
+            <pb n="10" facs="tcp:177444:7"/>
+            <p>The Prince of <hi>Orange</hi> as ſoone as he was in<g ref="char:EOLhyphen"/>formed of theſe paſſages, ſent thither on Thurſ<g ref="char:EOLhyphen"/>day the valia<g ref="char:cmbAbbrStroke">̄</g>t Collonel the Lord of <hi>Fama</hi> with a 100. ſmal ſhips loaden with armed ſouldIers, The next day, the Count <hi>Iohn</hi> of <hi>Naſſaw,</hi> ſayled likewiſe with 100. ſmall Ships to the ſayd City, beſides theſe, there are many ſhips and men ar<g ref="char:EOLhyphen"/>rived from <hi>Zealand,</hi> in ſuch maner that the wa<g ref="char:EOLhyphen"/>ter ſeemed to be covered with Shippes and Boats.</p>
+            <p>Out of his Campe he diſpatcht likewiſe cer<g ref="char:EOLhyphen"/>taine troops of horſe (which tooke their way by <hi>Hueſden, Gertruyen, Bergh, Oo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>terhrut,</hi> and <hi>Breda</hi>) to endamage the Enemy before <hi>Berghen</hi> afore<g ref="char:EOLhyphen"/>ſayd. To day we are adviſed that there be a<g ref="char:EOLhyphen"/>boue 5000. ſouldiers in <hi>Berghen vp Zoom,</hi> &amp; that the Enemy hath loſt 400.</p>
+            <p>The 19. of <hi>Iuly,</hi> there was brought in a Priſe at <hi>Rotterdam,</hi> with 800. Cheſts of Sugar.</p>
+            <div type="part">
+               <head>The taking in of the Towne of <hi>Goch,</hi> in the land of Cleue, <hi>by the Marquis</hi> SPINOLA.</head>
+               <p>ANno 1622. the 26.27. and 28. of <hi>Iuly,</hi> is the Mar<g ref="char:EOLhyphen"/>quis <hi>Spinola</hi> accompanied with Count <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> of the <hi>Bergh,</hi> and ſome Forces, marcht from <hi>Wezell</hi> towards the Eaſt ſide of the <hi>Rhine</hi> down<g ref="char:EOLhyphen"/>ward,
+<pb n="11" facs="tcp:177444:7"/>as if he would haue attempted ſome<g ref="char:EOLhyphen"/>thing againſt <hi>Doeſburgh, Zutphen,</hi> or <hi>Deventer.</hi>
+               </p>
+               <p>The Prince of <hi>Orange</hi> well knowing his Stra<g ref="char:EOLhyphen"/>tagems, lookt about as well as he could. But <hi>Spinola</hi> having choſen a fit time for himſelfe, ſtayed all Paſſengers at that inſtant, and drew inſtantly out of the next Citties and Townes of <hi>Cleue,</hi> a good part of the Garriſons with him, and ſet with the ſame vpon <hi>Goch.</hi> And having with his Ordinance beaten the Tyles from the houſes, ſo that they fell in the Street, which cauſing the Towneſmen to run more to their Cellers then Walls, he got the Towne by com<g ref="char:EOLhyphen"/>poſition the 28. of <hi>Iuly,</hi> ſeeing the Garriſon was but 300 men ſtrong, and not able to reſiſt with their willing hearts, his violences and Forces.</p>
+               <p>From <hi>Rome,</hi> Laſt Sunday the Poſt (that was ſent by the Arch-Duke <hi>Leopoldus</hi> vnto the Pope requeſting his Holineſſe that whereas he had certaine Souldiers in pay in <hi>Germany,</hi> vnder the Commaund of <hi>Don Pedro Alderbrandino,</hi> it would pleaſe him to turne them over into his ſervice) hath beene diſpacht with this anſwere, that the Arch-Duke muſt ſue for the ſame purpoſe vnto the Emperour.</p>
+               <p>Laſt Wedneſday, the Ambaſſadour of the King of <hi>Spaine,</hi> did preſent a horſe, and a Letter
+<pb n="12" facs="tcp:177444:8"/>of Exchange of 7000. Crownes for the feude or fealtie of the Kingdome of <hi>Naples,</hi> which were accepted by the Procurator of the Exche<g ref="char:EOLhyphen"/>quer; with the accuſtomed &amp; vſual proteſtatio<g ref="char:cmbAbbrStroke">̄</g>.</p>
+               <p>We heare from <hi>Naples,</hi> that the Galleons with Souldiers lately ſayled towards <hi>Spaine</hi> are to be imployed againſt the Pirates: And that out of the ſayd Kingdomes 400000. Crownes, and from <hi>Sicilia</hi> 150000. Crownes ſhould be made over by Letters of Exchange in the <hi>Low Countries,</hi> towards the charges of the warre.</p>
+               <p>From <hi>Mesſina,</hi> they write that the Gallies of <hi>Toſca<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> were arrived at <hi>Reggio,</hi> having fought with 15. Veſſels of the Pyrats, and had made 250. of them ſlaues, and gotten 8. peeces of Or<g ref="char:EOLhyphen"/>dinance from them, and one Ship loaden with Oyle, beſides 100000. Crownes for acompo<g ref="char:EOLhyphen"/>ſition or ranſome to ſaue their liues.</p>
+               <p>From <hi>Venice,</hi> Iuly 8. from <hi>Turine</hi> they adviſe that the Duke of <hi>Savoy,</hi> rayſeth many forces in <hi>France,</hi> and other countries, having ſent divers Inginers to fortifie his Fortreſſes of <hi>Asti, Vercelli,</hi> and Saint <hi>Germane</hi> and other places. Morco<g ref="char:EOLhyphen"/>ver he hath ſupplied the garriſons of <hi>Asti,</hi> and <hi>Vercelli,</hi> with 400. Souldiers. And that <hi>Aldeibgera</hi> hath an army in readines vpon the confines of <hi>Savoy,</hi> for his Highnes ſervice.</p>
+               <pb n="13" facs="tcp:177444:8"/>
+               <p>Letters from <hi>Milane</hi> relate, that 100. cartes from thence were ſent with munition to the <hi>Veltolinas</hi> to prouide the ſouldiers withall, ſeeing that great forces are to be ſent thether againſt the Griſons. Theſouldiers which came with the Knight <hi>Plecch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> from Alſatia are ſent towards <hi>Bormio.</hi> The Spaniards which haue layne in <hi>Cleue</hi> are marcht vp to<g ref="char:EOLhyphen"/>wards <hi>Millane,</hi> hauing left there onely the Counte <hi>Serbellione</hi> with his regiment. And heere are leauied with all ſpeed 11. trouppes of horſe.</p>
+               <p>Laſt Thuſday is the Knight <hi>Simon Conta<g ref="char:EOLhyphen"/>rini</hi> choſen by this <hi>Signorie</hi> Ambaſſador for <hi>Conſtantinopele</hi> to congratulate the great <hi>Signor,</hi> who hath giuen two millons of gold to his Ianiſſaries, and increaſed their penſion 3. aſpers a day.</p>
+               <p>From <hi>Brinoten</hi> the 10. daie the Confede<g ref="char:EOLhyphen"/>rates haue beſieged <hi>Guttenborg</hi> and diſcharge their ordinance againſt the ſame, doeing thoſe of the Towne the like: beſides they haue made a ſconſe neere <hi>Vleſchenberg</hi> direct<g ref="char:EOLhyphen"/>ly againſt the Towne to endammage the ſame, as likewiſe inuaded <hi>Mantaſan,</hi> and aſ<g ref="char:EOLhyphen"/>ſaulted
+<pb n="14" facs="tcp:177444:9"/>the enemies in two aſſunder places, which cauſeth great feare &amp; dearth in <hi>Tirol.</hi>
+               </p>
+               <p>The Confederates at <hi>Baden</hi> haue vnder hand &amp; ſeale reniewed their confederation with the <hi>Graubuntens,</hi> whereupon they care now litle for <hi>Leopoldus</hi> and other enemies. Likewiſe the 5. Catholike Cantons haue pro<g ref="char:EOLhyphen"/>miſed free paſſage to the Reformed, vpon condition that they ſhal bring certificates or paſſeports from their Magiſtrates or Com<g ref="char:EOLhyphen"/>manders. And they themſelfes haue aduiſed the Proteſtantes to make no agreement with their enemies, but to go on with their enter<g ref="char:EOLhyphen"/>priſes, &amp; to clenſe the countrie quit of them. When they haue taken <hi>Engadin,</hi> they inten<g ref="char:EOLhyphen"/>ded to beſiege <hi>Veltkercken;</hi> they get daily great aſſiſtance of men, munition, &amp; ordinance, from the Bunoters.</p>
+               <p>From <hi>Prague</hi> the 12. of Iuly. The 7. of this moneth is the Count of <hi>Hoghenſoller</hi> (being Ambaſſ<hi rend="sup">er</hi>. of the Emp.) trauelled towards Dreſden vnto the Duke &amp; Elector of <hi>Saxony</hi>) and to other places of the Empire.</p>
+               <p>Yeſterday the Commiſſioners went al this Citie ouer, to viſit the armes of the Prote<g ref="char:EOLhyphen"/>ſtants,
+<pb n="15" facs="tcp:177444:9"/>and left them only their rapers &amp; dag<g ref="char:EOLhyphen"/>gers, after they had inrolled them in their bookes, to what purpoſe, we hnow not yet.</p>
+               <p>From <hi>Frankendall</hi> the 12. day Counte <hi>Manſ<g ref="char:EOLhyphen"/>field</hi> &amp; Duke <hi>Chriſtian</hi> of <hi>Brunſwick</hi> are marcht towards Luthenborch with an armie of 1100. horſe and 25000. foote: and taking euerie where great contributions, and wee heare that they haue gotten 300000. Ryxdallers in <hi>Alſatia</hi> onely: and we looke what both the Imperiall armies will attempt. It is thought that they will paſſe ouer at <hi>Shrock</hi> and march from thence to <hi>Newſtadt</hi> and <hi>Germerſheim.</hi>
+               </p>
+               <p>All the forces by the Prince <hi>Palatine</hi> left in the <hi>Palatinate</hi> lie in garriſon, the horſe onely excepted of <hi>Obertrout</hi> and <hi>Meganck</hi> which keepe about the Mountain. There is a ſtrong garriſon in this Towne, being two trouppes of horſe amongſt them, we are likewiſe very well prouided with all kinde of ordinance.</p>
+               <p>The Fort commenced by the Schaperie of this Town is made alreadie defenſible, and the workemen continue daily to worke at it. They ſay here that our Prince is gone towards <hi>Sedan,</hi> where the Duke of <hi>Boullion</hi> keepes his Court.</p>
+               <pb n="14" facs="tcp:177444:10"/>
+               <p>From <hi>Francfort</hi> the 21. Iulij, It is certaine that the Imperialiſts are retired from Heydel<g ref="char:EOLhyphen"/>bergh. The Engliſh Ambaſſador laboureth hard to obtaine a truce, or a ceſſatio<g ref="char:cmbAbbrStroke">̄</g> of armes.</p>
+               <p>Here is rumored that the Spaniſh forces wil laie an other bridge at Stein to paſſe ouer the Rhine. The meane time are the Spaniſh &amp; Bauarian forces at <hi>Worms</hi> tranſported ouer the Rhyne with boates, but their baggage ſhalbe carried ouer the bridge at <hi>Vppenheim;</hi> and is like they will beſidge <hi>Franckendall.</hi>
+               </p>
+               <p>The Counte of <hi>Anboult</hi> marching with his forces toward <hi>Alſatia</hi> did ſeiourn 3. daies agoe at <hi>Kerken</hi> two leagues but diſtant from <hi>Tourlach,</hi> what his intentio<g ref="char:cmbAbbrStroke">̄</g> is we know not:</p>
+               <p>The Landtgraue <hi>Lodewick of Darmſtad</hi> is retired vpon his fort <hi>Ruſſeſheim,</hi> where he in<g ref="char:EOLhyphen"/>tends to abide for a time. Otherwiſe wee heare but litle of the ſouldiers, but that they ſometime with halfe Companies goe pillad<g ref="char:EOLhyphen"/>ging, and in ſuch manner was lately ranſackt and pillaged the Caſtle of <hi>Offenback</hi> belon<g ref="char:EOLhyphen"/>ging to the Counte of <hi>Iſenburgh.</hi>
+               </p>
+               <p>The Spaniſh armie lies at this preſent at <hi>Lempertheym,</hi> and there comes newes that the
+<pb n="17" facs="tcp:177444:10"/>
+                  <hi>Bauarians</hi> haue fired Khonow, beſides 9. villages.</p>
+               <p>From Collen the 23 day, we hould for cer<g ref="char:EOLhyphen"/>taine that the fort of <hi>Papenmuts</hi> or Prieſts cap ſhalbe beſieged this night, ſeeing that yeſter<g ref="char:EOLhyphen"/>day many ſouldiers vpwards co<g ref="char:cmbAbbrStroke">̄</g>ming from <hi>Duſſeldorp</hi> and at <hi>Lulſdorp</hi> were certaine hun<g ref="char:EOLhyphen"/>dred arriued alreadie, &amp; beſides other prepa<g ref="char:EOLhyphen"/>rations; there is ſent a ſmall man of warre to co<g ref="char:cmbAbbrStroke">̄</g>tinue at <hi>Lulſdorp.</hi> And we haue vnderſtood afterwards by the Country people, that the Batteries are made ready and the ordinance planted againſt the Fort.</p>
+               <p>From <hi>Emmerick,</hi> His <hi>Excellentie</hi> hath com<g ref="char:EOLhyphen"/>manded a bridge to be caſted ouer the riuer <hi>Wilde,</hi> &amp; the ordinance and munition to be landed, whereof ſome was conueyed away by waggons ſo that by all likelyhoode it ſee<g ref="char:EOLhyphen"/>meth that he will attempt ſomething either againſt <hi>Groll</hi> or <hi>Oldenſeel.</hi>
+               </p>
+               <p>From <hi>Algiers</hi> we vnderſta<g ref="char:cmbAbbrStroke">̄</g>d that the plague there as likewiſe at <hi>Thunis,</hi> in ſuch a manner continued that there died about 500. a day.</p>
+               <p>The Corne is grown now better cheape in Italy.</p>
+               <pb n="19" facs="tcp:177444:11"/>
+               <p>The <hi>Oſtendeners</hi> are almoſt all beſet in di<g ref="char:EOLhyphen"/>uers parts by the men of warre of the States.</p>
+               <p>Counte <hi>Henry of the Berghe</hi> is marcht vp towards the riuer of the <hi>Maſe</hi> with ſome 5. or 6000. men: hauing yet left many at <hi>Weſel</hi> and <hi>Berck.</hi> The Prince of <hi>Orange</hi> was yet at <hi>Emerie</hi> where hee hauing gotten great ſtore of waggons, gaue charge the ordinance and munition to be carried awaie according to his direction, whereby it is eaſelie to be geſ<g ref="char:EOLhyphen"/>ſed that he hath ſome enterpriſe in hand.</p>
+               <p>Thoſe of <hi>Lotharingia</hi> ſtand in great feare of <hi>Mansfield,</hi> ſeeing he will take his paſſage through the Countrie, and haue written vn<g ref="char:EOLhyphen"/>to <hi>Spignola</hi> for aide, and that without the ſame they ſhalbe compelled to ſuffer him in their Territorie.</p>
+               <p>From <hi>Lipſich</hi> they write, that the the 6. of Iuly the Ladie of the Elector of <hi>Saxony</hi> is brought to bedde of a young Sonne, that there are now 5. Dukes aliue of his line. The Godfathers are the Duke of <hi>Mechelburg,</hi> the Duke <hi>Lunenburg</hi> of Zel, two Dukes of <hi>Go<g ref="char:EOLhyphen"/>meren,</hi> and the Ladys mother is the young Dukes Godmother.</p>
+               <pb n="20" facs="tcp:177444:11"/>
+               <p>The enemies fortifie daily their campe before <hi>Berghen op Zoom,</hi> &amp; hauing made their Quarters and intrenched themſelues, they goe now to make batteries, and ſeeke to approach neerer the Cittie by trenches, but the garriſon playes brauelie with the ordi<g ref="char:EOLhyphen"/>nance vpon them, which being moſt made of ſand, are many times ſpoyled and ſhot downe by the ordinance of the Cittie and manie of his ſouldiers ſhot to death; ſo that they beginne to perceiue that this will be an other Oſtende and that they ſhalbe put to it very hardlie and dangerouſly, beſides all pro<g ref="char:EOLhyphen"/>uiſion and prouande is amongſt them a great deale deerer then it is in the Citty, ſee<g ref="char:EOLhyphen"/>ing they muſt get it by land, which cau<g ref="char:EOLhyphen"/>ſeth diuers to runne away. Within the Cit<g ref="char:EOLhyphen"/>tie and the outwarkes is great ſtore of good ſouldiers and braue Commanders, as like<g ref="char:EOLhyphen"/>wiſe Ingeners, Miners, and Pioniers; beſides all other things neceſſarie for their mainte<g ref="char:EOLhyphen"/>nance and defence. And all the forts in the Land of <hi>Tertolen</hi> be likewiſe well prouided.</p>
+               <p>Wee vnderſtand that the enemie hath ſent ſome more Artillerie, ammonution, &amp;
+<pb n="24" facs="tcp:177444:12"/>other prouiſſion accompanied with a ſtrong conuay, being forced to doe this con<g ref="char:EOLhyphen"/>tinually if he will continue the ſiege; theſe of the city goe ſometimes abroad to trie their fortunes, &amp; tooke this weeke certaine cartes with prouiſion, beſides diuers horſe and priſoners.</p>
+               <p>It is reported for certaine that the <hi>Mar<g ref="char:EOLhyphen"/>quis Spignloa</hi> is arriued at <hi>Antwerpe,</hi> intending his iourney very ſpeedely towards his campe before <hi>Berghen vp Zoom.</hi>
+               </p>
+               <p>Thoſe of <hi>Breda</hi> haue lately taken away al the brewe kettles that were in the Villages thereabout becauſe the enemies ſhould not vſe them, and it is reported that they muſt pay in their campe 8. ſtuyuers for a kanne of beere.</p>
+               <p>Thoſe of <hi>Groll</hi> haue made an excurſion this weeke, vnto Deuenter, and tooke di<g ref="char:EOLhyphen"/>uers cattell from thence with them.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
